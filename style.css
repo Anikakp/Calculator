@@ -1,0 +1,36 @@
+.calculator{
+	width: 250px;
+	height : 350px;
+    margin: 0 auto;
+    background-color: #CCCCFF;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-top : 30px;
+    box-shadow : 5px 5px;
+}
+
+button{
+   
+	margin : 7px;
+    width : 42px;
+    height : 36px;
+}
+
+.form-control{
+	width : 200px;
+	margin : 20px;
+	float :right;
+	margin-top : 20px;
+}
+
+.entries{
+
+		margin-top : 10px;
+		margin-left : 10px;
+}
+
+.calc{
+	text-align: center;
+	font-family: cursive;
+}
+
